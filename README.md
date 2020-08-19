@@ -5,9 +5,8 @@
  
 An app that calculates Body Mass Index for android and iOS with an attractive user interface designed using flutter 
 
-## What you will create
 
-It will be a multi screen app with simple functionality but full-on custom styling. 
+It is a multi screen app with simple functionality but full-on custom styling. 
 
 
 
